@@ -1,5 +1,5 @@
 Question Number 1:
-# C++ CGPA Calculator 🎓
+# C++ CGPA Calculator 
 
 A simple and efficient Command Line Interface (CLI) tool written in C++ to calculate Semester GPA and CGPA. This program takes user input for course grades and credit hours, processes them based on a standard 4.0 grading scale, and outputs a formatted summary table.
 
